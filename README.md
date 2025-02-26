@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naveed</h1>
 <h3 align="center">Emerging Data Science Student</h3>
 
-- 🔭 I’m currently working on **Automation**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **Database System**
 
 - 👯 I’m looking to collaborate on **Cloud Computing**
 
